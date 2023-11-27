@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasish Sharma</h1>
 <h3 align="center">A dedicated Flutter developer based in Nepal with a passion for crafting robust and user-friendly mobile applications using the Flutter framework.</h3>
 
-<img src="https://images.app.goo.gl/3vFNBsHasXw4Tm8JA" alt="Image Description">
+<img src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2020/10/flutter-app-developer.jpg" alt="Image Description">
 
 
 - 📝 I regularly write articles on [https://medium.com/@prasishsharma4](https://medium.com/@prasishsharma4)
